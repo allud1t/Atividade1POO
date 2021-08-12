@@ -10,7 +10,6 @@ Atividade 1 de Programação I da Unicesumar. A aplicação é um sistema de con
 
 ## Resumo das classes
 
----
 
 - **Principal**
     - main
@@ -56,7 +55,6 @@ sacar();
 
 ## Requisitos:
 
----
 
 :white_check_mark: número da conta e agência não podem ser 0
 
