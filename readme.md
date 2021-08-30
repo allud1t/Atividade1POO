@@ -12,7 +12,6 @@ Nessa atividade não há interação com usuário, não há interface gráfica o
 
 ## Resumo das classes
 
----
 
 - **Principal**
     - main
@@ -58,7 +57,6 @@ sacar();
 
 ## Requisitos:
 
----
 
 :white_check_mark: número da conta e agência não podem ser 0
 
