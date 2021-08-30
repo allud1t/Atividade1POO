@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="atvfinal:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/atvfinal_jar</output-path>
+    <root id="archive" name="atvfinal.jar">
+      <element id="module-output" name="atvfinal" />
+    </root>
+  </artifact>
+</component>

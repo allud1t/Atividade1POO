@@ -8,6 +8,8 @@
 
 Atividade 1 de Programação I da Unicesumar. A aplicação é um sistema de controle bancário.
 
+Nessa atividade não há interação com usuário, não há interface gráfica ou persistência de dados. Tem o intuito de apresentar os conceitos de Programação Orientada a Objetos, tais como abstração, polimorfismo, herança, encapsulamento.
+
 ## Resumo das classes
 
 ---
@@ -78,3 +80,9 @@ sacar();
 - herança
 - polimorfismo
 - encapsulamento
+
+------
+
+Para executar, baixe o arquivo .Jar e no diretório do arquivo baixado rode o seguinte comando no terminal:
+
+`java -jar Banco.jar`
